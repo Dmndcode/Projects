@@ -1,0 +1,7 @@
+C:\Projects\MenorElemento\bin\Debug\MenorElemento.exe.config
+C:\Projects\MenorElemento\bin\Debug\MenorElemento.exe
+C:\Projects\MenorElemento\bin\Debug\MenorElemento.pdb
+C:\Projects\MenorElemento\obj\Debug\MenorElemento.csproj.AssemblyReference.cache
+C:\Projects\MenorElemento\obj\Debug\MenorElemento.csproj.CoreCompileInputs.cache
+C:\Projects\MenorElemento\obj\Debug\MenorElemento.exe
+C:\Projects\MenorElemento\obj\Debug\MenorElemento.pdb
