@@ -1,0 +1,7 @@
+C:\Projects\buscaSequencial\bin\Debug\buscaSequencial.exe.config
+C:\Projects\buscaSequencial\bin\Debug\buscaSequencial.exe
+C:\Projects\buscaSequencial\bin\Debug\buscaSequencial.pdb
+C:\Projects\buscaSequencial\obj\Debug\buscaSequencial.csproj.AssemblyReference.cache
+C:\Projects\buscaSequencial\obj\Debug\buscaSequencial.csproj.CoreCompileInputs.cache
+C:\Projects\buscaSequencial\obj\Debug\buscaSequencial.exe
+C:\Projects\buscaSequencial\obj\Debug\buscaSequencial.pdb
