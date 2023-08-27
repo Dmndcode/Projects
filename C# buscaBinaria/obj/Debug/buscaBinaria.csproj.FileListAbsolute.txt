@@ -1,0 +1,7 @@
+C:\Projects\buscaBinaria\bin\Debug\buscaBinaria.exe.config
+C:\Projects\buscaBinaria\bin\Debug\buscaBinaria.exe
+C:\Projects\buscaBinaria\bin\Debug\buscaBinaria.pdb
+C:\Projects\buscaBinaria\obj\Debug\buscaBinaria.csproj.AssemblyReference.cache
+C:\Projects\buscaBinaria\obj\Debug\buscaBinaria.csproj.CoreCompileInputs.cache
+C:\Projects\buscaBinaria\obj\Debug\buscaBinaria.exe
+C:\Projects\buscaBinaria\obj\Debug\buscaBinaria.pdb
