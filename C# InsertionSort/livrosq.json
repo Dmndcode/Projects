@@ -1,0 +1,52 @@
+[
+    {
+        "Titulo": "Dom Casmurro",
+        "Autor": "Machado de Assis",
+        "AnoPublicacao": 1899
+    },
+    {
+        "Titulo": "A Moreninha",
+        "Autor": "Joaquim Manuel de Macedo",
+        "AnoPublicacao": 1844
+    },
+    {
+        "Titulo": "Memórias Póstumas de Brás Cubas",
+        "Autor": "Machado de Assis",
+        "AnoPublicacao": 1881
+    },
+    {
+        "Titulo": "Cem Anos de Solidão",
+        "Autor": "Gabriel García Márquez",
+        "AnoPublicacao": 1967
+    },
+    {
+        "Titulo": "A Revolução dos Bichos",
+        "Autor": "George Orwell",
+        "AnoPublicacao": 1945
+    },
+    {
+        "Titulo": "1984",
+        "Autor": "George Orwell",
+        "AnoPublicacao": 1949
+    },
+    {
+        "Titulo": "O Pequeno Príncipe",
+        "Autor": "Antoine de Saint-Exupéry",
+        "AnoPublicacao": 1943
+    },
+    {
+        "Titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "Autor": "J.R.R. Tolkien",
+        "AnoPublicacao": 1954
+    },
+    {
+        "Titulo": "Harry Potter e a Pedra Filosofal",
+        "Autor": "J.K. Rowling",
+        "AnoPublicacao": 1997
+    },
+    {
+        "Titulo": "A Metamorfose",
+        "Autor": "Franz Kafka",
+        "AnoPublicacao": 1915
+    }
+]
